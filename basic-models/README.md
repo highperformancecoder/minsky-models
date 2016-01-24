@@ -6,7 +6,7 @@ code.
 * 1Free.mky                                  
 * 4MonetaryMinskyModelLessUnstableStart.mky  
 * BasicGrowthModel.mky                       
-* data-example.mky
+* data-example.mky 
   Illustrates the use of a data block
 
 * EndogenousMoney.mky                        
@@ -20,20 +20,20 @@ Interim values can be labelled and used.
 * GoodwinLinear02.mky                        
 * GoodwinLinear.mky                          
 * LoanableFunds.mky                          
-* math-examples.mky
+* math-examples.mky 
   Illustrates the types of mathematical notation available for variable names
                           
 * MinskyGovernmentNonlinear.mky
 * MinskyNonLinear.mky
 * MinskyPricesFinal.mky
 * MonetaryMinskyNeoPrices.mky
-* PredatorPrey.mky
+* PredatorPrey.mky 
   Classic Lotke-Volterra predator-prey system.
 
 * Solow.mky
 * Steve.mky
 * SteveTest028.mky
-* switchBlock.mky
+* switchBlock.mky 
   Illustrates use of the switch block.
 
 * UWS05.mky
