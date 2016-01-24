@@ -10,8 +10,8 @@ code.
   Illustrates the use of a data block
 
 * EndogenousMoney.mky                        
-* exponentialGrowth.mky <br>    
-  Illustrates one of the simplest recursive systems: exponential growth
+* exponentialGrowth.mky <br>
+Illustrates one of the simplest recursive systems: exponential growth
 
 * exponentialGrowthWithExtraLabel.mky <br>
 a slightly different implementation of exponential, showing how
