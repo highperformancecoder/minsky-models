@@ -1,6 +1,6 @@
 # minsky-models
 Basic models illustrating Minsky features, distributed with source
-code.
+code. Use the "raw" option to download these files for use with Minsky.
 
 
 * 1Free.mky                                  
